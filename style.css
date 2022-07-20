@@ -1,0 +1,42 @@
+* {
+    text-align: center;
+}
+
+body {
+    background-color: moccasin;
+}
+
+h1 {
+    font-family: Raleway, Arial, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-size: 50px;
+}
+
+table {
+    height: 340px;
+    margin: 0 auto;
+    padding: 0;
+}
+
+thead {
+    font-family: 'Work Sans', Arial, sans-serif;
+    font-weight: 500;
+    background-color: sienna;
+    font-size: 30px;
+    color: white;
+    border: sienna;
+    padding: 5px;
+    line-height: 45px;
+}
+
+td {
+    font-family: 'Work Sans', Arial, sans-serif;
+    font-size: 18px;
+    border-bottom: 1px solid sienna;
+}
+
+.code {
+    font-family: monospace;
+    font-weight: 500;
+}
